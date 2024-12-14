@@ -47,8 +47,3 @@ Choose an option:
 Follow the prompts to add, list, edit, or remove products in the inventory.
 
 ---
-
-### Key Changes:
-- Added "the" before "name, quantity, and price" for consistency.
-- Corrected the code block format in the "Example" section to use proper syntax highlighting.
-- Minor wording adjustments for better flow.
