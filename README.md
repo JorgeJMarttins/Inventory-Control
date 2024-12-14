@@ -1,4 +1,3 @@
-The text you've written is mostly clear, but a few improvements can be made for clarity, consistency, and correctness. Here’s the revised version:
 
 ---
 
